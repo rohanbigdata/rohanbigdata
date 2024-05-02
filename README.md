@@ -1,9 +1,9 @@
-👋 Hi, I’m @rohanbigdata
+👋 Hi, I’m @rohanbigdata As Big Data Engineer
 
-👀 I’m interested in ...
+👀 I’m interested in Data, large amount of Data 
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning New technology 
 
-💞️ I’m looking to collaborate on ...
+💞️ I’m trying to create easy and simple way to learn coding 
 
-📫 How to reach me ...
+📫 you to reach me out and use my repo for learing python, SQL, Pysaprk, Spark, scala and AWS services. 
